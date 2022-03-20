@@ -3,7 +3,7 @@
   <samp>
     Oi, meu nome é Gustavo <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://gustavorice.github.io/site-portfolio-ionia/
 ">Loop</a></b>.
-    <br>Sou um estudante de ciências da computação, e futuro FullStack Dev.<br>
+    <br>Sou um estudante de ciências da computação, e futuro Desenvolvedor FullStack.<br>
 
 </samp>
 <br>
