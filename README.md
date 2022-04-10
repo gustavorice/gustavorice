@@ -21,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
 Meus últimos projetos: <a href="https://gustavorice.github.io/site-portfolio-ionia/
-">Portfólio de uma agência de freelances que abri com um amigo.</a>
+">Portfólio de uma agência de freelances que abri com um amigo.</a> <br>
   <a href="https://gustavorice.github.io/calculadora/"> Calculadora desenvolvida em HTML/CSS e JavaScript</a>
 
 
