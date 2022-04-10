@@ -20,8 +20,9 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Meu último projeto: <a href="https://gustavorice.github.io/site-portfolio-ionia/
+Meus últimos projetos: <a href="https://gustavorice.github.io/site-portfolio-ionia/
 ">Portfólio de uma agência de freelances que abri com um amigo.</a>
+  <a href="https://gustavorice.github.io/calculadora/"> Calculadora desenvolvida em HTML/CSS e JavaScript</a>
 
 
 
