@@ -19,6 +19,7 @@
  <b><h2 style="color: #fc6203">F O G U E I R A &nbsp; A C E S A !</h2> </b>
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+  <br>
 
 <p style="text-align = center">Meus últimos projetos:</p> <br><a href="https://gustavorice.github.io/site-portfolio-ionia/
 ">Portfólio de uma agência de freelances que abri com um amigo.</a> <br>
