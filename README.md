@@ -21,8 +21,8 @@
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
   <br>
 
-<br><p style="text-align = center">Meus últimos projetos:</p> <br><a href="https://gustavorice.github.io/site-portfolio-ionia/
-">Portfólio de uma agência de freelances que abri com um amigo.</a> <br>
+<br><p style="text-align = center">Meus últimos projetos:</p> <br><a href="https://gustavorice.github.io/todoList/
+">TodoList que armazena as informações em localStorage.</a> <br>
   <a href="https://gustavorice.github.io/calculadora/"> Calculadora desenvolvida em HTML/CSS e JavaScript</a>
 
 
