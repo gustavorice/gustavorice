@@ -3,7 +3,7 @@
   <samp>
     Oi, meu nome é Gustavo <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://gustavorice.github.io/site-portfolio-ionia/
 ">Rice</a></b>.
-    <br>Sou um estudante de ciências da computação, e futuro Desenvolvedor FullStack.<br>
+    <br>designer que as vezes programa coisas.<br>
 
 </samp>
 <br>
