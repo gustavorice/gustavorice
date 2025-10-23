@@ -1,9 +1,9 @@
 <p align="center">
   <br>
   <samp>
-    Oi, meu nome é Gustavo H.<b><a rel="nofollow noopener noreferrer" target="_blank" href="https://gustavorice.github.io/site-portfolio-ionia/
-">Rice</a></b>.
-    <br>estou me formando em análise e desenvolvimento de sistemas pelo Claretiano, e atualmente meu foco é estudar C#, .NET, Blazor e SQL.<br>
+    Oi, meu nome é <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/gustavo-h-rice/
+">Gustavo H. Rice</a></b>.
+    <br>estou me formando em análise e desenvolvimento de sistemas pelo Claretiano,<br> e atualmente meu foco é estudar C#, .NET, Blazor e SQL.<br>
 
 </samp>
 <br>
