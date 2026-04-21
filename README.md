@@ -3,7 +3,7 @@
   <samp>
     Oi, meu nome é <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/gustavo-h-rice/
 ">Gustavo H. Rice</a></b>.
-    <br>Estou me formando em análise e desenvolvimento de sistemas pelo <b>Claretiano</b>,<br> e atualmente meu foco é estudar <b>C#, .NET, Blazor e SQL.</b><br>
+    <br>Estou me formando em Data Science pela <b>Anhanguera</b>,<br> e atualmente meu foco é estudar <b>Python, BigQuery, SQL, LookerStudio e PowerBI.</b><br>
 
 </samp>
 <br>
