@@ -2,7 +2,7 @@
   <br>
   <samp>
     Oi, meu nome é <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/gustavo-henrique-data/">Gustavo H. Rice</a></b>.
-    <br>Estou me formando em Data Science pela <b>Anhanguera</b>,<br> e atualmente meu foco é estudar <b>Python, BigQuery, SQL, LookerStudio e PowerBI.</b><br>
+    <br>Estou me formando em Data Science pela <b>Anhanguera</b>,<br> e atualmente meu foco é criar <b>soluções gerais para web fullstack</b><br>
 
 </samp>
 <br>
