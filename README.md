@@ -30,7 +30,7 @@ SAC via WhatsApp com múltiplos atendentes, filas, CRM de contatos, realtime e i
 
 ---
 
-### Minhas origens, projetos onde comecei (2018 - 2022)
+### Meus primeiros projetos
 
 [Todo List](https://gustavorice.github.io/todoList/) — Gerenciamento de tarefas com persistência em LocalStorage.  
 [Calculadora](https://gustavorice.github.io/calculadora/) — HTML, CSS e JavaScript puro.
