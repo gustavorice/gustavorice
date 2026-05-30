@@ -2,7 +2,7 @@
 
 ## Oi, eu sou o Gustavo <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30">
 
-Full Stack Developer — MeuCPD Soluções Tecnológicas · Data Science, Anhanguera
+Full Stack Developer · MeuCPD Soluções Tecnológicas · Data Science, Anhanguera
 
 Interesse em desenvolvimento web, automação de processos e sistemas que resolvem problemas reais de negócios.
 
