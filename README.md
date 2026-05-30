@@ -32,7 +32,7 @@ Atualmente, meu foco está no desenvolvimento de soluções web full stack.</b><
   Sistema de SAC que permite conectar números de WhatsApp e gerenciar múltiplos atendentes com diversas funcionalidades.
   <br><br>
   🔗 https://wppsender-taupe.vercel.app/  
-  🔗 [https://github.com/gustavorice?tab=repositories](https://github.com/gustavorice/wppsender)
+  🔗 https://github.com/gustavorice/wppsender
 </details>
 </samp>
 <br>
