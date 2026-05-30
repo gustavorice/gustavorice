@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Oi, meu nome é <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/gustavo-henrique-data/">Gustavo H. Rice https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif</a></b>.
+    Oi, meu nome é <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/gustavo-henrique-data/">Gustavo H. Rice</a><img>https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif<img></b>.
     <br>Estou me formando em Data Science pela <b>Anhanguera</b>,<br> e atualmente meu foco é criar <b>soluções gerais para web fullstack</b><br>
 
 </samp>
