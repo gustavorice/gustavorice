@@ -3,7 +3,8 @@
   <samp>
     Oi, meu nome é <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/gustavo-henrique-data/">Gustavo H. Rice </a></b><img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30">
     <br>
-    <br>Atuo como Desenvolvedor Full Stack na MeuCPD soluções tecnológicas e estou me formando em Data Science pela <b>Anhanguera</b>,<br> e atualmente meu foco é criar <b>soluções gerais para web fullstack.</b><br>
+    <br>Atuo como Desenvolvedor Full Stack na MeuCPD Soluções Tecnológicas e estou em formação em Data Science pela <b>Anhanguera</b>.  
+Atualmente, meu foco está no desenvolvimento de soluções web full stack.</b><br>
 <br>
 </samp>
 <br>
