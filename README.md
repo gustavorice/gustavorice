@@ -32,6 +32,6 @@ SAC via WhatsApp com múltiplos atendentes, filas, CRM de contatos, realtime e i
 
 ### Meus primeiros projetos
 
-[Random Dog Generator](https://github.com/gustavorice/randomDogsGenerator) - HTML, CSS, JavaScript (E cachorrinhos).
+[Random Dog Generator](https://github.com/gustavorice/randomDogsGenerator) - HTML, CSS, JavaScript (E cachorrinhos).<br>
 [Todo List](https://gustavorice.github.io/todoList/) — Gerenciamento de tarefas com persistência em LocalStorage.  
 [Calculadora](https://gustavorice.github.io/calculadora/) — HTML, CSS e JavaScript puro.
