@@ -2,8 +2,9 @@
   <br>
   <samp>
     Oi, meu nome é <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/gustavo-henrique-data/">Gustavo H. Rice </a></b><img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30">
-    <br>Estou me formando em Data Science pela <b>Anhanguera</b>,<br> e atualmente meu foco é criar <b>soluções gerais para web fullstack</b><br>
-
+    <br>
+    <br>Atuo como Desenvolvedor Full Stack na MeuCPD soluções tecnológicas e estou me formando em Data Science pela <b>Anhanguera</b>,<br> e atualmente meu foco é criar <b>soluções gerais para web fullstack.</b><br>
+<br>
 </samp>
 <br>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
