@@ -1,60 +1,47 @@
-<p align="center">
-  <br>
-  <samp>
-    Oi, meu nome é <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/gustavo-henrique-data/">Gustavo H. Rice </a></b><img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30">
-    <br>
-    <br>Atuo como Desenvolvedor Full Stack na MeuCPD Soluções Tecnológicas e estou em formação em Data Science pela <b>Anhanguera</b>.  
-Atualmente, meu foco está no desenvolvimento de soluções web full stack.</b><br>
-<br>
-    No tempo livre também gosto de desenvolver sistemas que resolvem problemas. Segue abaixo alguns dos meus projetos:
-
 <details>
-  <summary><b>Grynd</b></summary>
+  <summary><b>🚀 Grynd</b></summary>
+
+  Plataforma de prospecção de clientes que identifica negócios locais e realiza abordagens automatizadas via WhatsApp utilizando a Evolution API.
+
   <br>
-  Buscador de leads locais, conectado com a API do Evolution para envio de mensagens via WhatsApp.
+
+  <b>Tecnologias:</b> Node.js, React, PostgreSQL, Evolution API
+
   <br><br>
-  🔗 https://grynd.com.br/  
-  🔗 https://github.com/gustavorice/grynd
+
+  🌐 <a href="https://grynd.com.br/">Demo</a>
+  •
+  📂 <a href="https://github.com/gustavorice/grynd">Código-fonte</a>
 </details>
 
 <details>
-  <summary><b>Arko NFE</b></summary>
+  <summary><b>📄 Arko NFE</b></summary>
+
+  Sistema integrado à SEFAZ para consulta de notas fiscais emitidas contra o usuário, permitindo análise e contestação quando necessário.
+
   <br>
-  Sistema conectado à SEFAZ que busca notas fiscais emitidas contra uma pessoa e permite contestação.
+
+  <b>Tecnologias:</b> React, Node.js, Integração SEFAZ
+
   <br><br>
-  🔗 https://arko-tan.vercel.app/  
-  🔗 https://github.com/gustavorice/arko
+
+  🌐 <a href="https://arko-tan.vercel.app/">Demo</a>
+  •
+  📂 <a href="https://github.com/gustavorice/arko">Código-fonte</a>
 </details>
 
 <details>
-  <summary><b>WppSender</b></summary>
+  <summary><b>💬 WppSender</b></summary>
+
+  Plataforma de atendimento multicanal via WhatsApp com múltiplos atendentes, filas de atendimento e gerenciamento centralizado das conversas.
+
   <br>
-  Sistema de SAC que permite conectar números de WhatsApp e gerenciar múltiplos atendentes com diversas funcionalidades.
+
+  <b>Tecnologias:</b> React, Node.js, WebSockets, WhatsApp API
+
   <br><br>
-  🔗 https://wppsender-taupe.vercel.app/  
-  🔗 https://github.com/gustavorice/wppsender
-</details>
-</samp>
-<br>
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
-</p>
-
-
-<details align="center">
-
-<summary> <b> <samp> Acende a fogueira </samp></b></summary>
-<samp>
- <b><h2 style="color: #fc6203">F O G U E I R A &nbsp; A C E S A !</h2> </b>
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
-  <br>
-
-<br><p style="text-align = center">Meus últimos projetos:</p> <br><a href="https://gustavorice.github.io/todoList/
-">TodoList que armazena as informações em localStorage.</a> <br>
-  <a href="https://gustavorice.github.io/calculadora/"> Calculadora desenvolvida em HTML/CSS e JavaScript</a>
-
-
-
-</samp>
+  🌐 <a href="https://wppsender-taupe.vercel.app/">Demo</a>
+  •
+  📂 <a href="https://github.com/gustavorice/wppsender">Código-fonte</a>
 </details>
