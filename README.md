@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gustavo
+# hi, i'm Gustavo <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30">
 
 **Full Stack Developer**
 
@@ -22,13 +22,13 @@ Also building **Bankai**, an urban intelligence platform that combines geospatia
 
 ### Selected Work
 
-**[Bankai](https://bankai.systems)**
+**[Bankai](https://bankai.systems)**<br>
 Urban intelligence and monitoring platform combining computer vision, geospatial intelligence, public data and 30+ external data sources.
 
-**ArkoNFE**
+**ArkoNFE**<br>
 Software focused on electronic invoice management and automation.
 
-**AtendeJá**
+**AtendeJá**<br>
 Multi-tenant customer service platform with real-time messaging, WhatsApp integration, automation and AI-assisted workflows.
 
 ### Stack
