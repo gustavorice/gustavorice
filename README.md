@@ -6,7 +6,7 @@
 
 Building software, infrastructure and intelligent systems.
 
-[LinkedIn](https://www.linkedin.com/in/gustavo-henrique-data/)) · [Bankai](https://bankai.systems)
+[LinkedIn](https://www.linkedin.com/in/gustavo-henrique-data/) · [Bankai](https://bankai.systems)
 
 </div>
 
