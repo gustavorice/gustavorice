@@ -6,7 +6,7 @@
 
 Building software, infrastructure and intelligent systems.
 
-[LinkedIn](https://www.linkedin.com/in/gustavo-henrique-data/) · [Bankai](https://bankai.systems)
+[LinkedIn](https://www.linkedin.com/in/gustavo-henrique-data/) · [Bankai](https://bankai.systems) · [AtendeJá](https://atendeja.chat/)  
 
 </div>
 
@@ -28,7 +28,7 @@ Urban intelligence and monitoring platform combining computer vision, geospatial
 **ArkoNFE**<br>
 Software focused on electronic invoice management and automation.
 
-**AtendeJá**<br>
+**[AtendeJá](https://atendeja.chat/) **<br>
 Multi-tenant customer service platform with real-time messaging, WhatsApp integration, automation and AI-assisted workflows.
 
 ### Stack
