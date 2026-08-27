@@ -1,37 +1,55 @@
 <div align="center">
 
-## Oi, eu sou o Gustavo <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30">
+# Gustavo
 
-Full Stack Developer · MeuCPD Soluções Tecnológicas · Data Science, Anhanguera
+**Full Stack Developer**
 
-Interesse em desenvolvimento web, automação de processos e sistemas que resolvem problemas reais de negócios.
+Building software, infrastructure and intelligent systems.
+
+[LinkedIn](https://www.linkedin.com/in/gustavo-henrique-data/)) · [Bankai](https://bankai.systems)
 
 </div>
 
 ---
 
-### Projetos
+### About
 
-**[Grynd](https://grynd.com.br/)** · [código](https://github.com/gustavorice/grynd)  
-SaaS de prospecção de leads locais. Multi-fonte (Google Places, OSM, Playwright), multi-tenant, quota por leads e billing com Stripe.  
-`Next.js 15` `TypeScript` `Drizzle ORM` `Neon Postgres` `Clerk` `Stripe` `Upstash Redis` `Playwright`
+Full Stack Developer working across **software engineering, cloud infrastructure, data and AI**.
+
+Currently building and maintaining production systems at **MeuCPD Soluções Tecnológicas**, with experience in multi-tenant SaaS applications, real-time systems, API integrations, cloud infrastructure and endpoint management.
+
+Also building **Bankai**, an urban intelligence platform that combines geospatial data, computer vision, public datasets and multiple external data sources for city-scale analysis.
+
+### Selected Work
+
+**[Bankai](https://bankai.systems)**
+Urban intelligence and monitoring platform combining computer vision, geospatial intelligence, public data and 30+ external data sources.
+
+**ArkoNFE**
+Software focused on electronic invoice management and automation.
+
+**AtendeJá**
+Multi-tenant customer service platform with real-time messaging, WhatsApp integration, automation and AI-assisted workflows.
+
+### Stack
+
+`TypeScript` `JavaScript` `Python` `Vue` `Nuxt` `React` `Next.js`
+
+`Node.js` `PostgreSQL` `Supabase` `Cloudflare` `AWS`
+
+`Docker` `Terraform` `Git` `Linux`
+
+### Background
+
+**Full Stack Developer** — MeuCPD Soluções Tecnológicas
+**Analysis and Systems Development** — Claretiano
+**Startup School** — Y Combinator
+**Software Development** — Kenzie Academy
 
 ---
 
-**[Arko NFE](https://arko-tan.vercel.app/)** · [código](https://github.com/gustavorice/arko)  
-Sistema fiscal integrado à SEFAZ para consulta de DF-e, upload de XML, certificado A1 e geração de XML de devolução.  
-`Next.js` `React` `Tailwind CSS` `NestJS` `Prisma` `Supabase`
+<div align="center">
 
----
+**Software · Data · Infrastructure · Intelligence**
 
-**[WppSender](https://wppsender-taupe.vercel.app/)** · [código](https://github.com/gustavorice/wppsender)  
-SAC via WhatsApp com múltiplos atendentes, filas, CRM de contatos, realtime e isolamento multi-tenant por Clerk Organizations.  
-`Nuxt 4` `Vue 3` `TypeScript` `Nuxt UI` `Clerk` `Supabase` `Evolution API` `Pinia`
-
----
-
-### Meus primeiros projetos
-
-[Random Dog Generator](https://github.com/gustavorice/randomDogsGenerator) - HTML, CSS, JavaScript (E cachorrinhos).<br>
-[Todo List](https://gustavorice.github.io/todoList/) — Gerenciamento de tarefas com persistência em LocalStorage.  
-[Calculadora](https://gustavorice.github.io/calculadora/) — HTML, CSS e JavaScript puro.
+</div>
