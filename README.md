@@ -34,10 +34,9 @@ Software focused on electronic invoice management and automation.
 
 ### Stack
 
-
-Application: TypeScript · Python · Vue.js / Nuxt · React / Next.js<br>
-Data & Cloud: Node.js · PostgreSQL · Supabase · AWS · Cloudflare<br>
-Infrastructure: Docker · Terraform · GitHub Actions · Linux<br>
+Application: TypeScript · Python · Vue/Nuxt · React/Next <br>
+Backend & Data: Node.js · PostgreSQL · REST APIs <br>
+Cloud & Infrastructure: AWS · Docker · Terraform · CI/CD <br>
 
 ### Background
 
