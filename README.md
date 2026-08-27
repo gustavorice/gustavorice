@@ -25,11 +25,12 @@ Also building **Bankai**, an urban intelligence platform that combines geospatia
 **[Bankai](https://bankai.systems)**<br>
 Urban intelligence and monitoring platform combining computer vision, geospatial intelligence, public data and 30+ external data sources.
 
+**[AtendeJá](https://atendeja.chat/)**<br>
+Multi-tenant customer service platform with real-time messaging, WhatsApp integration, automation and AI-assisted workflows.
+
 **ArkoNFE**<br>
 Software focused on electronic invoice management and automation.
 
-**[AtendeJá](https://atendeja.chat/)**<br>
-Multi-tenant customer service platform with real-time messaging, WhatsApp integration, automation and AI-assisted workflows.
 
 ### Stack
 
