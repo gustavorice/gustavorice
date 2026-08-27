@@ -34,18 +34,17 @@ Software focused on electronic invoice management and automation.
 
 ### Stack
 
-`TypeScript` `JavaScript` `Python` `Vue` `Nuxt` `React` `Next.js`
 
-`Node.js` `PostgreSQL` `Supabase` `Cloudflare` `AWS`
-
-`Docker` `Terraform` `Git` `Linux`
+Application: TypeScript · Python · Vue.js / Nuxt · React / Next.js<br>
+Data & Cloud: Node.js · PostgreSQL · Supabase · AWS · Cloudflare<br>
+Infrastructure: Docker · Terraform · GitHub Actions · Linux<br>
 
 ### Background
 
-**Full Stack Developer** — MeuCPD Soluções Tecnológicas
-**Analysis and Systems Development** — Claretiano
-**Startup School** — Y Combinator
-**Software Development** — Kenzie Academy
+**Full Stack Developer** — MeuCPD Soluções Tecnológicas <br>
+**Analysis and Systems Development** — Claretiano <br>
+**Startup School** — Y Combinator <br>
+**Software Development** — Kenzie Academy <br>
 
 ---
 
