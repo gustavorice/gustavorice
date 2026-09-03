@@ -28,6 +28,9 @@ Urban intelligence and monitoring platform combining computer vision, geospatial
 **[AtendeJá](https://atendeja.chat/)**<br>
 Multi-tenant customer service platform with real-time messaging, WhatsApp integration, automation and AI-assisted workflows.
 
+**[CreditasBrasil](https://creditasbrasil.com/)**<br>
+Platform aggregating R$5M+ in startup credits, grants, funding programs, accelerators, and developer perks across Brazil.
+
 **ArkoNFE**<br>
 Software focused on electronic invoice management and automation.
 
